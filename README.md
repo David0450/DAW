@@ -13,10 +13,10 @@ Esto es una clasificación de las asignaturas del ciclo, con sus respectivos enl
 
 
 ## Segundo año
-| Codigo | Nombre                                                     | Curso | Repositorio |
-|--------|------------------------------------------------------------|-------|-------------|
-| DWES   | Desarrollo Web en Entorno Servidor                         |       |             |
-| DWEC   | Desarrollo Web en Entorno Cliente                          |       |             |
-| DAW    | Despliegue de Aplicaciones Web                             |       |             |
-| DIW    | Diseño de Interfaces Web                                   |       |             |
-| EIE    | Empresa e Iniciativa Emprendedora                          |       |             |
+| Codigo | Nombre                                                     | Curso | Repositorio                                       |
+|--------|------------------------------------------------------------|-------|---------------------------------------------------|
+| DWES   | Desarrollo Web en Entorno Servidor                         | 24-25 | [DWES]                                            |
+| DWEC   | Desarrollo Web en Entorno Cliente                          | 24-25 | [DWEC]                                            |
+| DAW    | Despliegue de Aplicaciones Web                             | 24-25 | [DAW]                                             |
+| DIW    | Diseño de Interfaces Web                                   | 24-25 | [DIW](https://github.com/David0450/DIW)           |
+| EIE    | Empresa e Iniciativa Emprendedora                          | 24-25 | [EIE]                                             |
